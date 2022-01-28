@@ -5,3 +5,6 @@
 - Vous allez utiliser cette valeur en php pour modifier la couleur de fond de la page via l'attribut style.
 - Vous stockerez cette valeur dans une variable de session.
 - Vous allez créer d'autres pages php où vous utiliserez la variable de session pour modifier la couleur de fond de ces autres pages ( avec la variable de session crée ).
+
+
+// 
